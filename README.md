@@ -12,11 +12,16 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>
+
+
+
+<br>
+
+
 ## 🌐 Socials:
 <div align="center"> 
  <a href="https://instagram.com/hojiakbar_zokirov"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
  <a href="https://leetcode.com/profile/Hojiakbar_Zokirov"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
  <a href="https://stackoverflow.com/users/20893965/hojiakbar-zokirov"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
- <a href="https://linkedin.com/in/
-https://linkedin.com/in/hojiakbar-zokirov-91960b244"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/hojiakbar-zokirov-91960b244/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 

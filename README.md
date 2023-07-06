@@ -59,7 +59,6 @@ target="_blank" rel="noreferrer">
 </div>
 </div>
 
-<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khojiakbar07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="197" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khojiakbar07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="197" alt="languages graph"  />

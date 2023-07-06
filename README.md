@@ -40,8 +40,21 @@ target="_blank" rel="noreferrer">
 
 <h3 align="left"> 🌐Connect with me:</h3>
 <div align="center"> 
- <a href="https://instagram.com/hojiakbar_zokirovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hojiakbar_zokirovv" height="30" width="40" /></a>
- <a href="https://leetcode.com/profile/Hojiakbar_Zokirov"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nodirxon" height="30" width="40" /></a>
-<div align="left">
+
+<a href="https://www.linkedin.com/in/hojiakbar-zokirov-91960b244/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="linkedin logo"  />
+</a>
+
+<a href="https://instagram.com/hojiakbar_zokirovv" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="45" alt="instagram logo"  />
+</a>
+
+<a href="mailto:hojiakbar312@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45"width="45" alt="gmail logo"  />
+<a href="https://t.me/hojiakbar_zokirovv" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45"width="45" alt="telegram logo"  />
+</a>
+</div>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

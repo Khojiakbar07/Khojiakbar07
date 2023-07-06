@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Zokirov%20Khojiakbar&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<h1 align="center">Hi 👋, I'm Hojiakbar Zokirov</h1>
+<h3 align="center">Undergraduate | Software Engineer | Microsoft Enthusiast | Contributor in Open Source Projects </h3>
+<h1 align="center"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+CSharp+developer;I'm+.NET+developer;)](#)
 
@@ -57,4 +59,21 @@ target="_blank" rel="noreferrer">
 </div>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khojiakbar07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="197" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khojiakbar07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="197" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Khojiakbar07&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=100&date_format=M j[, Y]&order=3" height="184" alt="streak graph"  />
+</div>
+
+###
+
+<h1></h1>
+
+###
+
+<div align="center">
+<img src="https://github.com/Hirushan-N/Hirushan-N/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div>
+  
+###

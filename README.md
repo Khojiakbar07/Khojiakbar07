@@ -8,6 +8,12 @@
 
 <br>
 
+<div align="center">
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api?username=Khojiakbar07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" alt="stats graph"  />
+  <img height="auto" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khojiakbar07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" alt="languages graph"  />
+  <img height="auto" width="70%" src="https://streak-stats.demolab.com?user=Khojiakbar07&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=100&date_format=M j[, Y]&order=3" alt="streak graph"  />
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">  
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
@@ -57,12 +63,6 @@ target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45"width="45" alt="telegram logo"  />
 </a>
 </div>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khojiakbar07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="197" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khojiakbar07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="197" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Khojiakbar07&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=100&date_format=M j[, Y]&order=3" height="184" alt="streak graph"  />
 </div>
 
 ###

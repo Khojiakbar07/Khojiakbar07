@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hojiakbar Zokirov</h1>
 <h3 align="center">
-  | Undergraduate | Software Engineer | Microsoft Enthusiast | Contributor in Open Source Projects| </h3>
+  | Undergraduate | Software Engineer | Microsoft Enthusiast | Contributor in Open Source Projects | </h3>
 <h1 align="center"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+CSharp+developer;I'm+.NET+developer;)](#)

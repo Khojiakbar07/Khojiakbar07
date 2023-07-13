@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hojiakbar Zokirov</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Hojiakbar Zokirov</h1>
 <h3 align="center">
   | Undergraduate | Software Engineer | Microsoft Enthusiast | Contributor in Open Source Projects | </h3>
 <h1 align="center"></h1>

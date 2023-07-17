@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img height="auto" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khojiakbar07&theme=black-ice&hide_border=true&border_radius=40&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Khojiakbar" />
+  <img height="60%" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khojiakbar07&theme=black-ice&hide_border=true&border_radius=40&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Khojiakbar" />
 </div>
 <!-- END STATS -->
 

@@ -9,12 +9,24 @@
 
 <br>
 
+<!-- START STATS -->
+<div align="center"> 
+   <img width="49%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khojiakbar07&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="UzSoftic github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khojiakbar07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img height="auto" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khojiakbar07&theme=black-ice&hide_border=true&border_radius=40&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Khojiakbar" />
+</div>
+<!-- END STATS -->
+
+<!--
 <div align="center">
   <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api?username=Khojiakbar07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" alt="stats graph"  />
   <img height="auto" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khojiakbar07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" alt="languages graph"  />
   <img height="60%" width="60%" src="https://streak-stats.demolab.com?user=Khojiakbar07&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=40&date_format=M j[, Y]&order=3" alt="streak graph"  />
 </div>
-
+-->
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">  
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
@@ -75,6 +87,5 @@ target="_blank" rel="noreferrer">
 <div align="center">
 <img src="https://github.com/Hirushan-N/Hirushan-N/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 <div>
-  
-###
+
 

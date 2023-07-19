@@ -3,7 +3,7 @@
   | Undergraduate | Software Engineer | Microsoft Enthusiast | Contributor in Open Source Projects | </h3>
 <h1 align="center"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+CSharp+developer;I'm+.NET+developer;)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+CSharp+developer;I'm+.NET+developer;I'm+Backend+developer;I'm+Fullstack+developer;)](#)
 
 <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Khojiakbar07/count.svg" /> </p>
 

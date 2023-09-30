@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hojiakbar Zokirov</h1>
 <h3 align="center">
-  | Undergraduate | Software Engineer | Microsoft Enthusiast | Contributor in Open Source Projects | </h3>
+  | Undergraduate | Software Engineer | Microsoft Enthusiast | Contributor in Open Source Projects |  </h3>
 <h1 align="center"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Software+Engineer;I'm+CSharp+developer;I'm+.NET+developer;I'm+Backend+developer;I'm+Fullstack+developer;)](#)
@@ -48,7 +48,6 @@ target="_blank" rel="noreferrer">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a> 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="40" height="40"/> </a> -->
 
 <br>
 

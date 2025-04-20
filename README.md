@@ -53,7 +53,7 @@ target="_blank" rel="noreferrer">
 <h3 align="left"> 🌐Connect with me:</h3>
 <div align="center"> 
 
-<a href="https://www.linkedin.com/in/hojiakbar-zokirov-91960b244/" target="_blank">
+<a href="https://www.linkedin.com/in/xojiakbar-zokirov/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="linkedin logo"  />
 </a>
 

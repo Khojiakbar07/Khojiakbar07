@@ -16,7 +16,7 @@
 <!--    <img width="41%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khojiakbar07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
 
   
-  <img height="60%" width="60%" src="https://streak-stats.demolab.com?user=Khojiakbar07&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=40&date_format=M j[, Y]&order=3" alt="streak graph"/>
+ <!--  <img height="60%" width="60%" src="https://streak-stats.demolab.com?user=Khojiakbar07&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=40&date_format=M j[, Y]&order=3" alt="streak graph"/> -->
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

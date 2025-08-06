@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Software+Engineer;I'm+WEB+developer;I'm+Backend+developer;I'm+Fullstack+developer;)](#)
 
-<p align="center"> Visitor counts <br> <img src="https://profile-counter.glitch.me/Khojiakbar07/count.svg" /> </p>
+<!-- <p align="center"> Visitor counts <br> <img src="https://profile-counter.glitch.me/Khojiakbar07/count.svg" /> </p> -->
 
 <br>
 

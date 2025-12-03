@@ -9,15 +9,20 @@
 
 <br>
 
-<div align="center">
-<!--   <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api?username=Khojiakbar07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" alt="stats graph"  /> -->
+<!-- <div align="center">
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api?username=Khojiakbar07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" alt="stats graph"  />
   <img width="49%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khojiakbar07&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="UzSoftic github stats" /> 
   <img height="auto" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khojiakbar07&locale=en&hide_title=true&layout=compact&card_width=390&langs_count=10&theme=radical&hide_border=true&order=2" alt="languages graph"  />
-<!--    <img width="41%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khojiakbar07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
+   <img width="41%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khojiakbar07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img height="60%" width="60%" src="https://streak-stats.demolab.com?user=Khojiakbar07&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=40&date_format=M j[, Y]&order=3" alt="streak graph"/> 
+</div> -->
 
-  
- <!--  <img height="60%" width="60%" src="https://streak-stats.demolab.com?user=Khojiakbar07&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=40&date_format=M j[, Y]&order=3" alt="streak graph"/> -->
-</div>
+<p align="center">
+  <a href="https://coderstats.net/github/#Dentrax">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Khojiakbar07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Khojiakbar07&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">  

@@ -4,8 +4,6 @@
 <h1 align="center"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Software+Engineer;I'm+WEB+developer;I'm+Backend+developer;I'm+Fullstack+developer;)](#)
-
-
 <br>
 
 <p align="center">

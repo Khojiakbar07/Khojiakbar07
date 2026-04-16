@@ -13,17 +13,17 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="center">  
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+<!-- <div align="center">  
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
 </a> <a href="https://reactjs.org/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</div>
+</div> -->
 
-<div align="center"> 
+<!-- <div align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a 
 href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a 
@@ -33,27 +33,27 @@ target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" alt="typescript logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="angularjs logo"  />
-</div>
+</div> -->
 
 <br>
 
-<h3 align="left"> 🌐Connect with me:</h3>
-<div align="center"> 
+<!-- <h3 align="left"> 🌐Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/xojiakbar-zokirov/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="linkedin logo"  />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/xojiakbar-zokirov/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="linkedin logo" />
+  </a>
+  <a href="https://instagram.com/hojiakbar_zokirovv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="45" alt="instagram logo" />
+  </a>
+  <a href="mailto:hojiakbar312@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" alt="gmail logo" />
+  </a>
+  <a href="https://t.me/hojiakbar_zokirovv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" height="45" alt="telegram logo" />
+  </a>
+</div> -->
 
-<a href="https://instagram.com/hojiakbar_zokirovv" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="45" alt="instagram logo"  />
-</a>
-
-<a href="mailto:hojiakbar312@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45"width="45" alt="gmail logo"  />
-<a href="https://t.me/hojiakbar_zokirovv" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45"width="45" alt="telegram logo"  />
-</a>
-</div>
 </div>
 
 ###

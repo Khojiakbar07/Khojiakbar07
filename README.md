@@ -35,8 +35,20 @@
 
 ###
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushmitadasari&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
 <h1></h1>
 
-###
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+<!-- ###
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg) -->
 
